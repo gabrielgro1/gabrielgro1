@@ -1,14 +1,10 @@
+# Olá, eu sou o Gabriel Gró! 👋
 
+---
+**`Desenvolvedor back-end`**| **`Sistemas de Informação na FATEC Mococa**`
 
-# gabrielgro
+Tenho 23 anos e transformo café em código na FATEC Mococa. Sou apaixonado por tecnologia e focado em construir soluções eficientes utilizando Python e Go. Busco constantemente aprimorar minhas habilidades e contribuir com projetos inovadores.
 
-
-
-# 👩🏻‍💻 Gabriel Gró
-
-**`Desenvolvedor back-end`**
-
-Me chamo Gabriel gró de sooouza, tenho 23 anos e sou natural de Mococa/SP. Estou cursando S.I na Fatec
 <p align="left">
     </a> 
     <a href="https://github.com/gabrielgro1?tab=repositories&sort=stargazers">

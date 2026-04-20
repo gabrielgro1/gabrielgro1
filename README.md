@@ -5,24 +5,7 @@
 
 Tenho 23 anos e transformo café em código na FATEC Mococa. Sou apaixonado por tecnologia e focado em construir soluções eficientes utilizando Python e Go. Busco constantemente aprimorar minhas habilidades e contribuir com projetos inovadores.
 
-<p align="left">
-    </a> 
-    <a href="https://github.com/gabrielgro1?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/gabrielgrsouza11?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/gabrielgro1?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/gabrielgro1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
+<p align="left"><a href="https://github.com/gabrielgro1?tab=repositories&sort=stargazers"><img alt="Total de estrelas" src="https://custom-icon-badges.demolab.com/github/stars/gabrielgro1?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" /></a><a href="https://github.com/gabrielgro1?tab=followers"><img alt="Seguidores" src="https://custom-icon-badges.demolab.com/github/followers/gabrielgro1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" /></a><a href="https://www.instagram.com/SEU_USER_AQUI" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a></p>
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -84,11 +67,12 @@ Tenho 23 anos e transformo café em código na FATEC Mococa. Sou apaixonado por 
     src="https://github-readme-stats.vercel.app/api?username=gabrielgro1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
+<p>
+  <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielgro1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
+</p>
 </p>

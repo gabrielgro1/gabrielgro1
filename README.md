@@ -60,8 +60,8 @@ Tenho 23 anos e estou estudando na FATEC Mococa. Sou apaixonado por tecnologia e
 
 <div align="center">
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gabrielgro1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gabrielgro1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&v=1" alt="Estatísticas do GitHub" />
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielgro1&layout=compact&theme=tokyonight&languages_count=6&include_all_commits=true&count_private=true&locale=pt-br" alt="Linguagens mais usadas" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielgro1&layout=compact&theme=tokyonight&languages_count=6&include_all_commits=true&count_private=true&locale=pt-br&v=1" alt="Linguagens mais usadas" />
 
 </div>

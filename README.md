@@ -80,3 +80,9 @@ Tenho 23 anos e estou estudando na FATEC Mococa. Sou apaixonado por tecnologia e
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielgro1&layout=compact&theme=tokyonight&languages_count=6&include_all_commits=true&count_private=true&locale=pt-br&v=1" alt="Linguagens mais usadas" />
 
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielgro1/gabrielgro1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielgro1/gabrielgro1/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gabrielgro1/gabrielgro1/output/github-contribution-grid-snake.svg">
+</picture>

@@ -12,16 +12,11 @@
         <a href="mailto:gabrielgrsouza11@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
       </p>
     </td>
-    
     <td valign="top" width="40%">
       <img src="rain-study.gif" width="100%" alt="Rain Study">
     </td>
   </tr>
 </table>
-
----
-
-### 🤖 Linguagens e Tecnologias
 
 ### 🤖 Linguagens e Tecnologias
 

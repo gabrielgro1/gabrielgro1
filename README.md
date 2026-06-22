@@ -1,6 +1,6 @@
 <h1>Olá, eu sou o Gabriel Gró! 👋</h1>
 
-<p><strong><code>Desenvolvedor back-end</code></strong> | <strong><code>Sistemas de Informação na FATEC Mococa</code></strong></p>
+<p><strong><code>Desenvolvedor back-end</code></strong> | <strong><code>Sistemas para internet</code></strong></p>
 
 <p>Sou estudante na FATEC Mococa, apaixonado por tecnologia e focado em construir soluções eficientes utilizando Python e Go. Busco constantemente aprimorar minhas habilidades e contribuir com projetos inovadores ☕.</p>
 

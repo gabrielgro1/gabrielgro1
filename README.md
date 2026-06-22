@@ -1,36 +1,45 @@
+# Olá, eu sou o Gabriel Gró! 👋
+
+**`Desenvolvedor back-end`** | **`Sistemas de Informação na FATEC Mococa`**
+
+Sou estudante na FATEC Mococa, apaixonado por tecnologia e focado em construir soluções eficientes utilizando Python e Go. Busco constantemente aprimorar minhas habilidades e contribuir com projetos inovadores ☕.
+
+---
+
 <table>
   <tr>
-    <td valign="top" width="100%">
-      <h1>Olá, eu sou o Gabriel Gró! 👋</h1>
-      <p><strong><code>Desenvolvedor back-end</code></strong> | <strong><code>Sistemas de Informação na FATEC Mococa</code></strong></p>
-      <p>Sou estudante na FATEC Mococa, apaixonado por tecnologia e focado em construir soluções eficientes utilizando Python e Go. Busco constantemente aprimorar minhas habilidades e contribuir com projetos inovadores ☕.</p>
+    <td valign="top" width="50%">
+      <h3>Connect with me!</h3>
       <p align="left">
         <a href="https://github.com/gabrielgro1?tab=repositories&sort=stargazers"><img alt="Total de estrelas" src="https://custom-icon-badges.demolab.com/github/stars/gabrielgro1?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" /></a>
         <a href="https://github.com/gabrielgro1?tab=followers"><img alt="Seguidores" src="https://custom-icon-badges.demolab.com/github/followers/gabrielgro1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" /></a>
+        <br><br>
         <a href="https://www.instagram.com/groinfosec" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
         <a href="https://www.linkedin.com/in/groinfosec" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gabrielgro1?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5" /></a>
         <a href="mailto:gabrielgrsouza11@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
       </p>
+      
+      <h3>My Stack ~</h3>
+      <p align="left">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="35" height="35"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="35" height="35"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="35" height="35"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="35" height="35"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="35" height="35"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="35" height="35"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="35" height="35"/>
+      </p>
+    </td>
+    
+    <td valign="top" width="50%" align="center">
+      <img src="rain-study.gif" width="280" alt="Rain Study">
     </td>
   </tr>
 </table>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-</p>
-
-<p align="center">
-  <img src="rain-study.gif" width="65%" alt="Rain Study">
-</p>
+### 📊 Estatísticas
 
 ### 📊 Estatísticas
 

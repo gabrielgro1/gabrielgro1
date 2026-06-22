@@ -1,10 +1,14 @@
-# Gabriel
-
-## Connect with me!
+<h3>Sobre mim<h3>
+<p>Estudante de Sistemas para Internet na FATEC Mococa. Foco em Go e Python. Apaixonado por aprendizagem contínua.</p>
+<ul>
+	<li>Estudante na FATEC Mococa — Sistemas para Internet</li>
+	<li>Foco em Go e Python</li>
+	<li>Gosto muito de aprendizagem contínua</li>
+</ul>
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="65%">
 
 <h3>Connect with me!</h3>
 <p align="left">
@@ -29,12 +33,11 @@
 
 </td>
 
-<td valign="middle" width="50%" align="center">
-<img src="https://raw.githubusercontent.com/gabrielgro1/gabrielgro1/main/rain-study.gif" width="100%" style="max-width: 400px;" alt="Rain Study">
+<td valign="top" width="35%" align="center">
+<img src="https://raw.githubusercontent.com/gabrielgro1/gabrielgro1/main/rain-study.gif" width="220" style="max-width:220px;border-radius:8px;" alt="Rain Study">
 </td>
 </tr>
 </table>
-
 
 
 

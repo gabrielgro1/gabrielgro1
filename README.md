@@ -1,13 +1,10 @@
+<h1>Olá, eu sou o Gabriel Gró! 👋</h1>
 
-<table>
-  <tr>
-    <td valign="top" width="60%">
-        <h1>Olá, eu sou o Gabriel Gró! 👋</h1>
-        <p><strong><code>Desenvolvedor back-end</code></strong> | <strong><code>Sistemas de Informação na FATEC Mococa</code></strong></p>
-        <p>Sou estudante na FATEC Mococa, apaixonado por tecnologia e focado em construir soluções eficientes utilizando Python e Go. Busco constantemente aprimorar minhas habilidades e contribuir com projetos inovadores ☕.</p>
-  
-  </tr>
-</table>
+<p><strong><code>Desenvolvedor back-end</code></strong> | <strong><code>Sistemas de Informação na FATEC Mococa</code></strong></p>
+
+<p>Sou estudante na FATEC Mococa, apaixonado por tecnologia e focado em construir soluções eficientes utilizando Python e Go. Busco constantemente aprimorar minhas habilidades e contribuir com projetos inovadores ☕.</p>
+
+---
 
 <p align="left"><a href="https://github.com/gabrielgro1?tab=repositories&sort=stargazers"><img alt="Total de estrelas" src="https://custom-icon-badges.demolab.com/github/stars/gabrielgro1?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" /></a><a 
                                                                                                                                                                                                                              href="https://github.com/gabrielgro1?tab=followers"><img alt="Seguidores" src="https://custom-icon-badges.demolab.com/github/followers/gabrielgro1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" /></a><a 

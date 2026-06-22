@@ -1,14 +1,7 @@
-# Olá, eu sou o Gabriel Gró! 👋
-
-**`Desenvolvedor back-end`** | **`Sistemas de Informação na FATEC Mococa`**
-
-Sou estudante na FATEC Mococa, apaixonado por tecnologia e focado em construir soluções eficientes utilizando Python e Go. Busco constantemente aprimorar minhas habilidades e contribuir com projetos inovadores ☕.
-
----
-
 <table>
   <tr>
     <td valign="top" width="50%">
+      
       <h3>Connect with me!</h3>
       <p align="left">
         <a href="https://github.com/gabrielgro1?tab=repositories&sort=stargazers"><img alt="Total de estrelas" src="https://custom-icon-badges.demolab.com/github/stars/gabrielgro1?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" /></a>
@@ -18,7 +11,7 @@ Sou estudante na FATEC Mococa, apaixonado por tecnologia e focado em construir s
         <a href="https://www.linkedin.com/in/groinfosec" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gabrielgro1?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5" /></a>
         <a href="mailto:gabrielgrsouza11@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
       </p>
-      
+
       <h3>My Stack ~</h3>
       <p align="left">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="35" height="35"/>
@@ -29,15 +22,19 @@ Sou estudante na FATEC Mococa, apaixonado por tecnologia e focado em construir s
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="35" height="35"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="35" height="35"/>
       </p>
+
     </td>
     
-    <td valign="top" width="50%" align="center">
-      <img src="rain-study.gif" width="280" alt="Rain Study">
+    <td valign="middle" width="50%" align="center">
+      <img src="rain-study.gif" width="100%" style="max-width: 400px;" alt="Rain Study">
     </td>
   </tr>
 </table>
 
----
+### 📊 Estatísticas
+
+<div align="center">
+  </div>
 ### 📊 Estatísticas
 
 <div align="center">

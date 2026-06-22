@@ -38,9 +38,6 @@ Sou estudante na FATEC Mococa, apaixonado por tecnologia e focado em construir s
 </table>
 
 ---
-
-### 📊 Estatísticas
-
 ### 📊 Estatísticas
 
 <div align="center">

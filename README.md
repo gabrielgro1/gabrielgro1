@@ -1,7 +1,4 @@
 
-<table>
-<tr>
-<td valign="top" width="65%">
 
 <h1>Olá, eu sou o Gabriel Gró! 👋</h1>
 

@@ -29,13 +29,6 @@
 <td valign="top" width="35%" align="center">
 <img src="https://raw.githubusercontent.com/gabrielgro1/gabrielgro1/main/rain-study.gif" width="260" style="max-width:260px;border-radius:8px;border:2px solid rgba(255,255,255,0.06);" alt="Rain Study">
 
-### 📊 Estatísticas
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gabrielgro1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&v=1" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielgro1&layout=compact&theme=tokyonight&languages_count=6&include_all_commits=true&count_private=true&locale=pt-br&v=1" alt="Linguagens mais usadas" />
-</div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielgro1/gabrielgro1/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielgro1/gabrielgro1/output/github-contribution-grid-snake.svg">

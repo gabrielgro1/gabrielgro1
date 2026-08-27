@@ -1,4 +1,4 @@
-<h1>Olá, eu sou o Gabriel Gró! 👋</h1>
+<h1>Olá, eu sou o Gabriel Gró!</h1>
 
 <p><strong><code>Desenvolvedor back-end</code></strong> | <strong><code>Sistemas para internet</code></strong></p>
 

@@ -7,7 +7,7 @@
 ---
 
 <p align="left">
-  <a href="https://github.com/gabrielgro1?tab=repositories&sort=stargazers"><img alt="Total de estrelas" src="https://custom-icon-badges.demolab.com/github/stars/gabrielgro1?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" /></a>
+  <a href="https://github.com/gabrielgro1?tab=repositories&sort=stargazers"><img alt="Total de estrelass" src="https://custom-icon-badges.demolab.com/github/stars/gabrielgro1?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" /></a>
   <a href="https://github.com/gabrielgro1?tab=followers"><img alt="Seguidores" src="https://custom-icon-badges.demolab.com/github/followers/gabrielgro1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" /></a>
   <a href="https://www.instagram.com/groinfosec" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/groinfosec" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gabrielgro1?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5" /></a>
